@@ -1,0 +1,2 @@
+# kitLogger
+RabbitMQ micro logger
